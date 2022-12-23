@@ -56,7 +56,7 @@ In order to change the `image.repository` parameter, open the `city-population-h
 
 ```sh
 image:
-  repository: askumars/city-population:
+  repository: askumars/city-population:lates
 ```
 to set `<namespace>` to your namespace on DockerHub where you published your application as `city-population-helm-chart`.
 
