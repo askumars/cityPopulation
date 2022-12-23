@@ -1,7 +1,7 @@
 # cityPopulation Apps
 cityPopulationCode
 
-# Helm Chart Templates for Node.js in Kubernetes
+# Helm Chart Templates for SprintBoot Application which maintains a list of Cities and their population hosted in Kubernetes
 
 <a href='http://CloudNativeJS.io/'><img src='https://img.shields.io/badge/homepage-CloudNativeJS-blue.svg'></a>
 
@@ -117,7 +117,7 @@ You application should now be visible in your browser.
 ## Uninstalling your Application
 If you installed your application with:  
 
-**Helm v2**
+**Helm v3**
 
 ```sh
 helm install --name city-population .
